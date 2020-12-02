@@ -1,4 +1,4 @@
-package loops;
+package decisionStatements;
 
 public class Test6 {
 

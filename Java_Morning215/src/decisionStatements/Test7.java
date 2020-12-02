@@ -1,4 +1,4 @@
-package loops;
+package decisionStatements;
 
 import java.util.Scanner;
 
